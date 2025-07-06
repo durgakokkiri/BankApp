@@ -10,6 +10,8 @@ public class DemoappApplication {
 		SpringApplication.run(DemoappApplication.class, args);
 	
    System.out.println("hello");
+   
+   System.out.println("hi durga");
 	
 	}
 
